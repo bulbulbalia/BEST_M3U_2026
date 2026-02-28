@@ -5,6 +5,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/tracks-v1a1/mono.m3u
 https://edge2.roarzone.info:8447/roarzone/edge3/hum/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRAVEL_XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/5bc98371-5eb2-4fd2-be33-33bd061891a5/2.m3u8
+#EXTINF:-1,GLOBAL_TV_BANGLA
+https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_BANGLA_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:-1,RTV_HD
@@ -55,6 +57,12 @@ http://172.19.178.59:18190/SN-ST-TV-36/tracks-v1a1/mono.m3u8
 http://172.19.178.19:18190/IX-TV-01/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_NEWS_BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:-1,ANONDO_TV
+https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BANGLA_TV
+https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHANNEL_S
+https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1,ZEE_BANGLA_SHONAR_HD
@@ -67,6 +75,10 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1998800.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+#EXTINF:-1,B4U_MUSIC
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZING_MUSIC
+https://edge2.roarzone.info:8447/roarzone/edge3/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9X_JALWA
 http://97.74.103.44:8089/load/9x_jalwa/chunks.m3u8
 #EXTINF:-1,SANGEET_BANGLA
