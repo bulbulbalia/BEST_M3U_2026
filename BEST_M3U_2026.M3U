@@ -57,6 +57,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLA_TV
 https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BIJOY_TV
+https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1,ZEE_BANGLA
@@ -73,8 +75,6 @@ http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZING_MUSIC
 https://edge2.roarzone.info:8447/roarzone/edge3/zing/tracks-v1a1/mono.m3u8
-#EXTINF:-1,9X_JALWA
-http://97.74.103.44:8089/load/9x_jalwa/chunks.m3u8
 #EXTINF:-1,SANGEET_BANGLA
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1,9X_TAHSAN
@@ -85,10 +85,17 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_TV_HD
 http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_PIX
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC_HD
+https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE_CAFE
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-cafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1,&_PICTURES_HD
 https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ANIMAL_PLANET_HD
 https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_HD
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8
+
 
