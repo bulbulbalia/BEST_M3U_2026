@@ -25,8 +25,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1998800.m3u8
 #EXTINF:-1,ASIAN_TV_HD
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1,GTV_HD
-http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
 #EXTINF:-1,NTV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1998800.m3u8
 #EXTINF:-1,NEWS24_TV_HD
@@ -93,3 +91,4 @@ https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/tracks-v1a1/mono.m3u
 https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_HD
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8
+
