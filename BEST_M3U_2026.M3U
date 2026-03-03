@@ -85,8 +85,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,SONY_TV_HD
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_SAB
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-sab-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_BBC_EARTH
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-bbc-earth-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_TV_HD
 http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,&_TV
+https://edge2.roarzone.info:8447/roarzone/edge3/tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_PIX
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TLC_HD
@@ -99,6 +105,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/tracks-v1a1/mono.m3u
 https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_HD
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8
+
 
 
 
