@@ -107,5 +107,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/tracks-v1a1/mon
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_TURBO
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DISCOVER_SCI
+#EXTINF:-1,DISCOVERY_INVESTIGATION
+https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DISCOVERY_SCI
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
