@@ -19,6 +19,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SRK_TV_HD
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,INDIPENDENT_TV
+https://edge2.roarzone.info:8447/roarzone/edge3/independent-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=2407200.m3u8
 #EXTINF:-1,EKHON_TV
@@ -121,6 +123,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/tracks-v1a1/mono
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_SCI
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
+
 
 
 
