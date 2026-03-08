@@ -92,7 +92,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SANGEET_BANGLA
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1,9X_TAHSAN
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
+https://9xjio.wiseplayout.com/9X_Tashan/SD504/SD504.m3u8
 #EXTINF:-1,8XM
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,SONY_TV_HD
@@ -123,6 +123,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/tracks-v1a1/mono
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_SCI
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
+
 
 
 
