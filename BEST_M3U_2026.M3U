@@ -17,6 +17,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:-1,ANONDO_TV
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DESH_TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1,SRK_TV_HD
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INDIPENDENT_TV
@@ -147,4 +149,5 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
 
