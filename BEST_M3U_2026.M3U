@@ -142,8 +142,11 @@ http://198.195.239.50:8095/SonyTenSports5/tracks-v1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_2
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EURO_SPORTS
+https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EURO_SPORTS_2
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WILLOW_SPORTS
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
