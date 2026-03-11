@@ -125,8 +125,6 @@ https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/tracks-v1a1/mono
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_SCI
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NATIONAL_GEOGRAPHIC
-http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CNN_NEWS
 https://edge2.roarzone.info:8447/roarzone/edge3/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T_SPORTS_HD
