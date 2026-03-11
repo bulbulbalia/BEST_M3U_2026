@@ -51,8 +51,6 @@ https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/bdixbd.net_channelihd/video.m3u8
 #EXTINF:-1,ATN_NEWS_HD
 http://198.195.239.50:8095/bdixbd.net_AtnNews/video.m3u8
-#EXTINF:-1,T_SPORTS_HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SA_TV_HD
@@ -127,6 +125,10 @@ https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/track
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NATIONAL_GEOGRAPHIC
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN_NEWS
+https://edge2.roarzone.info:8447/roarzone/edge3/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T_SPORTS_HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV_SPORTS
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1,SONY_TEN_SPORTS_2
@@ -139,3 +141,5 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:808
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WILLOW_SPORTS
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR_SPORTS_SELECT_1
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
