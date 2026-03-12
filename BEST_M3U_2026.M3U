@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1,PEACH_TV_BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
 #EXTINF:-1,HUM_SITARAY
 https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HUM_TV
 https://edge2.roarzone.info:8447/roarzone/edge3/hum/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRAVEL_XP
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/5bc98371-5eb2-4fd2-be33-33bd061891a5/2.m3u8
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/017867da-d069-434b-8ddc-c80707c8588b/2.m3u8
 #EXTINF:-1,BTV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1998800.m3u8
 #EXTINF:-1,RTV_HD
@@ -159,6 +161,7 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
 
 
 
