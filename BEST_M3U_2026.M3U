@@ -133,6 +133,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/tracks-v1a1/mono
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_SCI
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC_NEWS
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1,ALJAJEERA_NEWS
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1,CNN_NEWS
@@ -157,4 +159,5 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
 
