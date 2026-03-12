@@ -135,6 +135,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/track
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CNN_NEWS
 https://edge2.roarzone.info:8447/roarzone/edge3/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DW_NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1,T_SPORTS_HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV_SPORTS
