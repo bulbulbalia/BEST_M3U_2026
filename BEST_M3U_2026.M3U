@@ -7,8 +7,6 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/017867da-d069-434b-8ddc-c80707c8588b/2.m3u8
 #EXTINF:-1,BTV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1998800.m3u8
-#EXTINF:-1,GLOBAL_TV_BANGLA
-https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GREEN_TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1,ATN_BANGLA_HD
@@ -36,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 #EXTINF:-1,NEWS24_TV_HD
 http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JAMUNA_TV
-https://edge2.roarzone.info:8447/roarzone/edge3/jamuna-tv/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
 http://198.195.239.50:8095/bdixbd.net_JamunaTV/video.m3u8
 #EXTINF:-1,SOMOY_TV_HD
