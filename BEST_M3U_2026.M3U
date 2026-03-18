@@ -66,9 +66,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,MOVIE_BANGLA
 https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+http://strem.shrsystem.com/hls/StarJalshaHD.m3u8
 #EXTINF:-1,ZEE_BANGLA
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/tracks-v1a1/mono.m3u8
+http://strem.shrsystem.com/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1,ZEE_BANGLA_SHONAR_HD
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENTER_10_HD
