@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,PEACH_TV_BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HUM_SITARAY
-https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HUM_TV
-https://edge2.roarzone.info:8447/roarzone/edge3/hum/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARY_DIGITAL
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1,TRAVEL_XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/017867da-d069-434b-8ddc-c80707c8588b/2.m3u8
 #EXTINF:-1,BTV_HD
