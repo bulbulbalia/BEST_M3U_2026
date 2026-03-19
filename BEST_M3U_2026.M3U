@@ -42,7 +42,7 @@ http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JAMUNA_TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
-http://198.195.239.50:8095/bdixbd.net_JamunaTV/video.m3u8
+http://strem.shrsystem.com/hls/JamunaTV.m3u8
 #EXTINF:-1,SOMOY_TV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 #EXTINF:-1,CHANNEL_S
