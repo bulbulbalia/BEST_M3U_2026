@@ -15,6 +15,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1,ATN_BANGLA_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+#EXTINF:-1,EKHON_TV
+https://server.itcnbd.live/proxy/ekhon_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fekhon_tv_160%2Fekhon_tv_160.m3u8%3Fbitrate%3D512000%26channel%3Dekhon_tv_160%26gp_id%3D
 #EXTINF:-1,DESH_TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1,SRK_TV_HD
@@ -23,7 +25,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1,DBC_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=2407200.m3u8
-#EXTINF:-1,EKHON_TV
+#EXTINF:-1,সংসদ_বাংলাদেশ_টিভি
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=1998800.m3u8
 #EXTINF:-1,EKATTOR_TV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
