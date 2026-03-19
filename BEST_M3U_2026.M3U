@@ -103,6 +103,8 @@ https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 https://cdn-2.pishow.tv/live/226/226_2.m3u8
 #EXTINF:-1,8XM
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,PARTY_UNIVERS
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 #EXTINF:-1,SONY_TV_HD
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS
