@@ -69,8 +69,10 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/tracks-v1a1/mono.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DESHI_TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,ME_TV
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,MOVIE_BANGLA
-https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/tracks-v1a1/mono.m3u8
+https://server.itcnbd.live/proxy/movie_bangla/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fmovie_bangla_576%2Fmovie_bangla_576.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
 http://strem.shrsystem.com/hls/StarJalshaHD.m3u8
 #EXTINF:-1,ZEE_BANGLA
