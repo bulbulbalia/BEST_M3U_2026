@@ -50,7 +50,7 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1,CHANNEL_I_HD
 http://strem.shrsystem.com/hls/channelihd.m3u8
 #EXTINF:-1,ATN_NEWS_HD
-http://198.195.239.50:8095/bdixbd.net_AtnNews/video.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1998800.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SA_TV_HD
