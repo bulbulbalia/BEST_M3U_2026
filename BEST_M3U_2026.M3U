@@ -99,6 +99,8 @@ https://9xjio.wiseplayout.com/9X_Tashan/SD504/SD504.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
 #EXTINF:-1,JOO_MUSIC
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
+#EXTINF:-1,MUSIC_INDIA
+https://cdn-2.pishow.tv/live/226/226_2.m3u8
 #EXTINF:-1,8XM
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,SONY_TV_HD
