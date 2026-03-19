@@ -48,7 +48,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-vid
 #EXTINF:-1,CHANNEL_S
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL_I_HD
-http://198.195.239.50:8095/bdixbd.net_channelihd/video.m3u8
+http://strem.shrsystem.com/hls/channelihd.m3u8
 #EXTINF:-1,ATN_NEWS_HD
 http://198.195.239.50:8095/bdixbd.net_AtnNews/video.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
