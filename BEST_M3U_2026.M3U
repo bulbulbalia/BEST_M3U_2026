@@ -35,6 +35,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1,NTV_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1998800.m3u8
+#EXTINF:-1,NEXUS_TV
+https://server.itcnbd.live/proxy/nexus_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fnexus_tv_320%2Fnexus_tv_320.m3u8%3Fbitrate%3D768000%26channel%3Dnexus_tv_320%26gp_id%3D
 #EXTINF:-1,NEWS24_TV_HD
 http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JAMUNA_TV
