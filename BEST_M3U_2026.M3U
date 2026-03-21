@@ -49,6 +49,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://server.itcnbd.live/proxy/nexus_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fnexus_tv_320%2Fnexus_tv_320.m3u8%3Fbitrate%3D768000%26channel%3Dnexus_tv_320%26gp_id%3D
 #EXTINF:-1,NEWS24_TV_HD
 http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JAGO_NEWS
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA_TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
