@@ -81,6 +81,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,ME_TV
 https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1,G_SERIES
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,MOVIE_BANGLA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
