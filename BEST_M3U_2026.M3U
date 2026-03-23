@@ -1,5 +1,5 @@
 #EXTM3U
-দীপ্ত_টিভি
+#EXTINF:-1,দীপ্ত_টিভি
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
 #EXTINF:-1,PEACE_TV_BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8?q=auto&sid=Ver4w4su2U-0MXXQTRZ7SA&bvr_flags=1&bvr_ch=PeaceTvBangla&bvr_bw=5790000
