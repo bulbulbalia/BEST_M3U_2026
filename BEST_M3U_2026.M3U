@@ -100,7 +100,7 @@ https://mumt03.tangotv.in/AAKASHAATH/tracks-v2a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 #EXTINF:-1,B4U_MUSIC
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/tracks-v1a1/mono.m3u8
+https://server.itcnbd.live/proxy/b4u_music/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fb4u_music_576%2Fb4u_music_576.m3u8%3Fbitrate%3D1000000%26channel%3Db4u_music_576%26gp_id%3D
 #EXTINF:-1,ZING_MUSIC
 https://edge2.roarzone.info:8447/roarzone/edge3/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1,সংগীত_বাংলা
