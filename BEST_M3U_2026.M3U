@@ -123,7 +123,7 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS
 http://strem.shrsystem.com/hls/StarPlusHD.m3u8
-#EXTINF:-1,STAR_BHAROT
+#EXTINF:-1,COLORS_HD
 http://strem.shrsystem.com/hls/ColorsHD.m3u8
 #EXTINF:-1,SONY_SAB
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-sab-hd/tracks-v1a1/mono.m3u8
