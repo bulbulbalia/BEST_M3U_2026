@@ -110,7 +110,7 @@ https://server.itcnbd.live/proxy/b4u_music/playlist?u=https%3A%2F%2Fbldcmprod-cd
 #EXTINF:-1,ZING_MUSIC
 https://server.itcnbd.live/proxy/zing_sd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzing_sd_576%2Fzing_sd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzing_sd_576%26gp_id%3D
 #EXTINF:-1,সংগীত_বাংলা
-http://strem.shrsystem.com/hls/SangeetBangla.m3u8
+http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_MUSIC
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 #EXTINF:-1,9X_TAHSAN
