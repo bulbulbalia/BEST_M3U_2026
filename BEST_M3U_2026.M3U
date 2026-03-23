@@ -106,7 +106,7 @@ https://server.itcnbd.live/proxy/zing_sd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.
 #EXTINF:-1,সংগীত_বাংলা
 http://strem.shrsystem.com/hls/SangeetBangla.m3u8
 #EXTINF:-1,9XM_MUSIC
-http://strem.shrsystem.com/hls/9xm.m3u8
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 #EXTINF:-1,9X_TAHSAN
 https://9xjio.wiseplayout.com/9X_Tashan/SD504/SD504.m3u8
 #EXTINF:-1,ZOOM_MUSIC
