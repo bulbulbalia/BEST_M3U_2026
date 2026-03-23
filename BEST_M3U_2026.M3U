@@ -120,7 +120,7 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,PARTY_UNIVERS
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 #EXTINF:-1,SONY_TV_HD
-http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS
 http://strem.shrsystem.com/hls/StarPlusHD.m3u8
 #EXTINF:-1,COLORS_HD
