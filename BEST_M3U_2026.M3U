@@ -145,7 +145,7 @@ http://strem.shrsystem.com/hls/StarMoviesHD.m3u8
 #EXTINF:-1,SONY_PIX
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TLC_HD
-https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/tracks-v1a1/mono.m3u8
+https://server.itcnbd.live/stream/tlc_hd.m3u8
 #EXTINF:-1,ZEE_CAFE
 https://edge2.roarzone.info:8447/roarzone/edge3/zee-cafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1,&_PICTURES_HD
