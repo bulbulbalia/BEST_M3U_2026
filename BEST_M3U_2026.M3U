@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TNT_SPORTS_3
 http://172.16.29.2:8090/hls/tntsports3hd.m3u8
+#EXTINF:-1,T_SPORTS
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1,দীপ্ত_টিভি
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
 #EXTINF:-1,PEACE_TV_BANGLA
