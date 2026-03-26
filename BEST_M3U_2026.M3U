@@ -2,7 +2,7 @@
 #EXTINF:-1,TNT_SPORTS_3
 http://172.16.29.2:8090/hls/tntsports3hd.m3u8
 #EXTINF:-1,T_SPORTS
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http%3A%2F%2Ftvn2.chowdhury-shaheb.com%2Ftsport%2Ftracks-v1a1%2Fmono.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,দীপ্ত_টিভি
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
 #EXTINF:-1,PEACE_TV_BANGLA
