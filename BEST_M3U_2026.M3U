@@ -4,7 +4,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,ISLAMIC_TV_BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 #EXTINF:-1,RTV
-http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/a028/index.m3u8
 #EXTINF:-1,RAJDHANI
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1,HUM_TV
@@ -22,7 +22,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1,BTV_NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_BANGLA_HD
-http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/atnbd/index.m3u8
 #EXTINF:-1,TIME-TV-USA
 https://app.ncare.live/live-orgin/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1,MASRANGA
