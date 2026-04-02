@@ -198,621 +198,319 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_2
 http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:11,BTV NEWS HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a065/index.m3u8
-#EXTINF:0,BTV World
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:0,Songsad TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a069/index.m3u8
-#EXTINF:0,Islamic TV
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:0,PeaceTV Bangla
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=d0828e90-a8b9-4d2b-9bf7-ab996578147a&e=.m3u8
-#EXTINF:0,Madani TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05p/index.m3u8
-#EXTINF:0,Live Sports
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:0,Gtv HD
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Gtv
-#EXTVLCOPT:network-caching=1000
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:0,T Sports HD
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
-#EXTINF:0,Jamuna Tv
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:0,Maasranga
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05q/index.m3u8
-#EXTINF:0,Duronto TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05k/index.m3u8
-#EXTINF:0,Mohona
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:0,Asian TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:0,ATN Bangla
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:0,Banglavision TV
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:0,Boishakhi TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a067/index.m3u8
-#EXTINF:0,Channel 9 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05j/index.m3u8
-#EXTINF:0,Channel I
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
-#EXTINF:0,Deepto TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05r/index.m3u8
-#EXTINF:0,Desh TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:0,Nexus TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:0,ATN News
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05u/index.m3u8
-#EXTINF:0,Ekattor TV
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:0,Ekhon TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a09k/index.m3u8
-#EXTINF:0,Star News
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:0,Independent TV
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:0,Somoy News
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05l/index.m3u8
-#EXTINF:0,News 24
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a06i/index.m3u8
-#EXTINF:0,DBC News
-#EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:0,Channel 24
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Global Tv
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:0,Ekushey ETV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05x/index.m3u8
-#EXTINF:0,NTV
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Nagorik TV
-#EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:0,RTV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a068/index.m3u8
-#EXTINF:0,SA TV HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a062/index.m3u8
-#EXTINF:0,Bangla TV HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:0,Bijoy Tv
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:0,MyTV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:0,Ananda TV
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:0,Movie Bangla
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvbW92aWUtYmFuZ2xh&e=.m3u8
-#EXTINF:0,Channel S
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:0,MTV HD+
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02s/index.m3u8
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://103.180.212.191:3500/live/248.m3u8
-#EXTINF:0,Star Jalsha HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0c0/index.m3u8
-#EXTINF:0,Zee Bangla
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=106a66093e92&e=.m3u8
-#EXTINF:0,Zee Bangla HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0c3/index.m3u8
-#EXTINF:0,Akash AATH
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e&e=.m3u8
-#EXTINF:0,Sun Bangla
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0cw/index.m3u8
-#EXTINF:0,Colors Bangla HD
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:0,Enterr10 Bangla
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=1092effd-ec5f-4842-a9eb-09db84a23415&e=.m3u8
-#EXTINF:0,Jalsha Movies HD
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony AATH
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
-#EXTINF:0,Sony TV
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:0,Sony Pal
-#EXTVLCOPT:network-caching=1000
-http://premimum.online:80/live/jen12345/jen54321/6627.ts
-#EXTINF:0,Shemaroo
-#EXTVLCOPT:network-caching=1000
-http://103.175.73.12:8080/live/258/258_0.m3u8
-#EXTINF:0,Nick
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0cq/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0di/index.m3u8
-#EXTINF:0,Sonic
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:0,Tom & Jarry
-#EXTVLCOPT:network-caching=1000
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:0,Doreamon
-#EXTVLCOPT:network-caching=1000
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:0,Doreamon
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/147746.ts
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/19832.ts
-#EXTINF:0,Disney HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/19741.ts
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&name=Cartoon+Network&format=.m3u8
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
-#EXTINF:0,Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&name=Cartoon+Network+HD&format=.m3u8
-#EXTINF:0,Pogo
-#EXTVLCOPT:network-caching=1000
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvcG9nbw%3D%3D&name=POGO&format=.m3u8
-#EXTINF:0,Discovery HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a03g/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a03h/index.m3u8
-#EXTINF:0,Investigation Discovery
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a03c/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a038/index.m3u8
-#EXTINF:0,NatGeo Wild HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/7344.ts
-#EXTINF:0,Travel XP HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0cy/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0dr/index.m3u8
-#EXTINF:0,Sony BBC Earth HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a031/index.m3u8
-#EXTINF:0,History TV18 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02z/index.m3u8
-#EXTINF:0,Sony Max
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0co/index.m3u8
-#EXTINF:0,Sony Max HD
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Wah
-#EXTVLCOPT:network-caching=1000
-http://103.180.212.191:3500/live/1393.m3u8
-#EXTINF:0,& Picture
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:0,& Picture HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:0,&Prive HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a03f/index.m3u8
-#EXTINF:0,&flix HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02x/index.m3u8
-#EXTINF:0,Colors Cineplex Superhits
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/172368.ts
-#EXTINF:0,Colors Cineplex Bollywood
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/37074.ts
-#EXTINF:0,Colors Cineplex HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/9378.ts
-#EXTINF:0,Zee Cinema
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a06s/index.m3u8
-#EXTINF:0,Zee Cinema HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0c2/index.m3u8
-#EXTINF:0,Zee Anmol Cinema
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a035/index.m3u8
-#EXTINF:0,Zee Bollywood
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:0,Zee Cafe HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:0,Zee Classic
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a09w/index.m3u8
-#EXTINF:0,Star Gold HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:0,Star Gold 2
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0df/index.m3u8
-#EXTINF:0,Star Gold 2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:0,Star Gold Romance
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ck/index.m3u8
-#EXTINF:0,Star Gold Select
-#EXTVLCOPT:network-caching=1000
-http://103.175.73.12:8080/live/41/41_0.m3u8
-#EXTINF:0,Star Gold Select HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:0,GOLDMINES
-#EXTVLCOPT:network-caching=1000
-http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:0,GOLDMINES BOLLYWOOD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a07l/index.m3u8
-#EXTINF:0,GOLDMINES MOVIES
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a07k/index.m3u8
-#EXTINF:0,Goldmines 2
-#EXTVLCOPT:network-caching=1000
-http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:0,B4U KADAK
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a08c/index.m3u8
-#EXTINF:0,Bollywood Action
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:0,B4U MOVIES
-#EXTVLCOPT:network-caching=1000
-http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:0,Sony Pix HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02u/index.m3u8
-#EXTINF:0,Zee Cafe HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:0,STAR Movies HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02w/index.m3u8
-#EXTINF:0,STAR Movies Select HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a02v/index.m3u8
-#EXTINF:0,MAX Movies
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0et/index.m3u8
-#EXTINF:0,A SportsHD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a087/index.m3u8
-#EXTINF:0,Cricbuzz
-#EXTVLCOPT:network-caching=1000
-http://premimum.online:80/live/jen12345/jen54321/2494.ts
-#EXTINF:0,WillowTV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=abfabaee-3898-4279-8645-3da5b0232867&e=.m3u8
-#EXTINF:0,Willow 2
-#EXTVLCOPT:network-caching=1000
-http://premimum.online:80/live/jen12345/jen54321/5040.ts
-#EXTINF:0,Sky Sports Cricket
-#EXTVLCOPT:network-caching=1000
-http://premimum.online:80/live/jen12345/jen54321/23566.ts
-#EXTINF:0,Elevensport 1
-#EXTVLCOPT:network-caching=1000
-http://premimum.online:80/live/jen12345/jen54321/688286.ts
-#EXTINF:0,Bein Sport 1
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0f0/index.m3u8
-#EXTINF:0,Bein Sport 2
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ea/index.m3u8
-#EXTINF:0,Ten Cricket
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ep/index.m3u8
-#EXTINF:0,ThePapare 1
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ew/index.m3u8
-#EXTINF:0,ThePapare 2
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ex/index.m3u8
-#EXTINF:0,Sony Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0ef/index.m3u8
-#EXTINF:0,Sony Sports 5 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0dw/index.m3u8
-#EXTINF:0,Star Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:0,Star Sports SELECT 1 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0bz/index.m3u8
-#EXTINF:0,Star Sports SELECT 2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a0c1/index.m3u8
-#EXTINF:0,Eurosport HD
-#EXTVLCOPT:network-caching=1000
-http://103.229.254.25:7001/play/a03b/index.m3u8
-#EXTINF:0,PTV Sports
-#EXTVLCOPT:network-caching=1000
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sky Sports Football
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/23334.ts
-#EXTINF:0,SUPERSPORTS LALIGA HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/515.ts
-#EXTINF:0,SUPERSPORTS PSL HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/517.ts
-#EXTINF:0,SUPERSPORTS PREMIER LEAGUE HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/518.ts
-#EXTINF:0,SUPERSPORTS FOOTBALL HD
-#EXTVLCOPT:network-caching=1000
-https://premimum.online:443/live/Jen12345/Jen54321/523.ts
-#EXTINF:0,Redbull TV
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Euro Sport HD
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
-#EXTINF:0,w_400 - q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Toffee Live",ICC Test Championship Highlights
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
-#EXTINF:0,SONY SPORTS TEN 1 HD
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=43dcec1011e7&e=.m3u8
-#EXTINF:0,SONY SPORTS TEN 2 HD
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8
-#EXTINF:0,SONY SPORTS TEN 5 HD
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=fd6de8bd1666&e=.m3u8
-#EXTINF:0,SONY TEN Cricket
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=f76c7eb00da0&e=.m3u8
-#EXTINF:0,q_75 - f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee Live",EPL channel 1
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=bf1aced37e2b&e=.m3u8
-#EXTINF:0,q_75 - f_webp/Mi1QqZgBNnOkwJLWxggo/posters/3e9d4d0a-a346-4b39-92b5-13e9238ad240.png" group-title="Toffee Live",EPL channel 2
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=5780f0b94094&e=.m3u8
-#EXTINF:0,q_75 - f_webp/Pi1TqZgBNnOkwJLWVggf/posters/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.png" group-title="Toffee Live",EPL channel 3
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=53d12ffe3d30&e=.m3u8
-#EXTINF:0,q_75 - f_webp/OyEz-ZgBEef-9-uVnhcx/posters/f2143475-cf44-441a-b55d-58b2b5569aa5.png" group-title="Toffee Live",EPL channel 4
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=fe297e9de93c&e=.m3u8
-#EXTINF:0,EPL channel 5
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=f5807afe716a&e=.m3u8
-#EXTINF:0,q_75 - f_webp/6y_b4poBNnOkwJLWmn7X/posters/c1440521-da52-4cf7-b137-dd38d1de083a.png" group-title="Toffee Live",EPL channel 6
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=5865ee89896f&e=.m3u8
-#EXTINF:0,BFL Live 1
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=e755e721e480&e=.m3u8
-#EXTINF:0,BFL Live 2
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=e858a1615d51&e=.m3u8
-#EXTINF:0,BFL Live 3
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=becf4a0f044e&e=.m3u8
-#EXTINF:0,BFL Live 4
-#EXTVLCOPT:network-caching=1000
-https://sm-monirul.top/Toffee/live.php?id=ea6b05b5caa3&e=.m3u8
-#EXTINF:0,T Sports HD
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
-#EXTINF:0,PTV Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&e=.m3u8
-#EXTINF:0,4 Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=29ca0414-87d4-43c6-8477-68ef5a6391a6&e=.m3u8
-#EXTINF:0,A sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=a3d48c46-7902-45e2-abf9-0fab60c4d117&e=.m3u8
-#EXTINF:0,Cricket Gold
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=7747ecdd-ba30-4737-a600-54fdcdbcfebd&e=.m3u8
-#EXTINF:0,PSN 1 Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9c354ad6-3efc-4e4d-9cd8-3584bcc9c315&e=.m3u8
-#EXTINF:0,PSN 2 Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9e6373ed-e25b-49ef-9a76-35b144535f75&e=.m3u8
-#EXTINF:0,PSN 4 Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=02a7f557-a6e7-4254-b9dd-f8c063ba97c5&e=.m3u8
-#EXTINF:0,PSN 5 Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=0790e6bd-458c-4f9d-86d9-1c554383b623&e=.m3u8
-#EXTINF:0,Golf Channel
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9954b40b-67df-4cd9-9303-e02d713ad0a0&e=.m3u8
-#EXTINF:0,Bleav Football
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=909428fa-8473-43b2-aad5-23cf86b0d829&e=.m3u8
-#EXTINF:0,Fox Sports 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=93c7e57d-e666-488a-aec9-a339a7e5eb74&e=.m3u8
-#EXTINF:0,Star Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
-#EXTINF:0,Bein Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=490e6a84-17e2-42bb-8725-66af0c067239&e=.m3u8
-#EXTINF:0,BT Sports 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=10bb1341-2aa8-4be2-8a25-76a75f5a3ee7&e=.m3u8
-#EXTINF:0,Espn
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=e263cd7f-45e9-4bc6-a350-bf968eb51b14&e=.m3u8
-#EXTINF:0,TSN 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=32d28b2c-aded-481d-833b-cee57cecfc93&e=.m3u8
-#EXTINF:0,DUBAI SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=a51ed57c-a9cb-4dcb-9160-eb0726835c45&e=.m3u8
-#EXTINF:0,Talk Sport
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=6e70514c-5f8e-483b-8c97-3c971b558a74&e=.m3u8
-#EXTINF:0,KTV Sport Plus
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=3167764d-9154-4dda-a0cc-713ca5dee5d3&e=.m3u8
-#EXTINF:0,SPORTS FIRST TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=79ce27a8-bbfa-4661-a6ff-e6006e1510a3&e=.m3u8
-#EXTINF:0,Marquee Sports Network
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=d774d6a3-906e-42b4-b21a-9090b533a1b1&e=.m3u8
-#EXTINF:0,Star Sport Select 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=594809c8-574e-46cf-a3e5-26e0bec1fe33&e=.m3u8
-#EXTINF:0,Sports Grid
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=d49b0b2b-0132-4fd8-be49-88145477ee1d&e=.m3u8
-#EXTINF:0,Xtream Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=538b24c3-9493-44d5-be7c-482b51734f2c&e=.m3u8
-#EXTINF:0,Bloomberg TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=4ca61a59-e0e2-4566-94fb-055ef46dac9e&e=.m3u8
-#EXTINF:0,Abu Dhabi Sports 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=a7c5f56e-52ea-47ca-8b0a-27bf6148c667&e=.m3u8
-#EXTINF:0,Abu Dhabi Sports 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=cdc583dd-8031-4b7b-af12-34009af38744&e=.m3u8
-#EXTINF:0,Bahrain Sports 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=6d75259a-cecb-4905-8146-358ec6938c62&e=.m3u8
-#EXTINF:0,Dubai Sports 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9c8e02cf-4765-4156-8ecf-999935c0115d&e=.m3u8
-#EXTINF:0,Willow HD TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=abfabaee-3898-4279-8645-3da5b0232867&e=.m3u8
-#EXTINF:0,NFL Network
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=94069990-c00c-401a-af81-169ed39d1cb4&e=.m3u8
-#EXTINF:0,BT Sport 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=a57241fe-02b1-4a39-a602-84a57622be6c&e=.m3u8
-#EXTINF:0,Fox Sports 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb&e=.m3u8
-#EXTINF:0,TSN 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/A8yNa/play.php?id=576e5655-01d2-442f-b311-7c826d48fb7d&e=.m3u8
-#EXTINF:0,TSN 3
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9d3a1097-c171-4aee-99ad-e76c0c4a4c75&e=.m3u8
-#EXTINF:0,DD Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=3b238911-d385-406a-b936-07550f30a4f3&e=.m3u8
-#EXTINF:0,Bahrain Sports 2
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=71e96376-d08c-4314-b2d6-449ff40a90b0&e=.m3u8
-#EXTINF:0,Dubai Sports 3
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=e897cca2-8086-42cc-a492-e1f3e4d9aed9&e=.m3u8
-#EXTINF:0,NBC Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=9f230f21-7a07-4b80-b845-77f9327ddad3&e=.m3u8
-#EXTINF:0,Sharjah Sports TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=e9c383b6-72cd-4825-b815-b388e8a7a5d9&e=.m3u8
-#EXTINF:0,STAR SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=3ac46078-2bf0-4998-a021-37b459e09fba&e=.m3u8
-#EXTINF:0,WOF 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=d2152bbb-64e0-4822-826b-60853ca1d056&e=.m3u8
-#EXTINF:0,Persiana Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=862bc1f4-6430-4198-87c5-fa040776c1c7&e=.m3u8
-#EXTINF:0,Pro Sports International
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=38b0853b-8333-4387-bd86-8437073a1c49&e=.m3u8
-#EXTINF:0,Rta sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=1a9b1673-3098-4451-ac14-28ab9c3b2a3b&e=.m3u8
-#EXTINF:0,Motor Sports TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=db86c869-7bdd-44f5-9147-841d7cea1537&e=.m3u8
-#EXTINF:0,speed sports 1
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=3f01188b-bba8-44ed-a75a-2662c108450c&e=.m3u8
-#EXTINF:0,MORE THEN SPORTS TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=0e1fb643-581b-40c5-bb62-1277a6a75ebf&e=.m3u8
-#EXTINF:0,Oman Sports TV
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=0d69c371-f79e-40f8-8952-01be9e9cdb03&e=.m3u8
-#EXTINF:0,Tsport 7
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=6f4426c7-e48d-4b57-9747-4e0af8cc0365&e=.m3u8
-#EXTINF:0,Dubai Sports
-#EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/AyNa/play.php?id=b0bdcd1a-d9f8-4e45-92d2-deb4c842c691&e=.m3u8
+#EXTINF:-1 group-title="-",!!!!
+http://103.161.153.165:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="-",& FLIX HD
+http://103.161.153.165:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",& PICTURE HD
+http://103.161.153.165:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="-",& PRIVE HD
+http://103.161.153.165:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="-",& TV_HD
+http://103.161.153.165:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",&PICTURESHD
+http://103.161.153.165:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",&PRIVE HD
+http://103.161.153.165:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",A SportsHD
+http://103.161.153.165:8000/play/asphd/index.m3u8
+#EXTINF:-1 group-title="-",AND TV
+http://103.161.153.165:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="-",ANIMALPLANET HD
+http://103.161.153.165:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",ARYDigitalAsia HD
+http://103.161.153.165:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",ATN Bangla
+http://103.161.153.165:8000/play/atnbd/index.m3u8
+#EXTINF:-1 group-title="-",ATN News
+http://103.161.153.165:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="-",Al Jazeera English
+http://103.161.153.165:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",Ananda TV
+http://103.161.153.165:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="-",BBC WORLD NEWS HD
+http://103.161.153.165:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="-",BEIN SPORTS 1 HD ENG
+http://103.161.153.165:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="-",BTV Chattagram
+http://103.161.153.165:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",BTV NEWS HD
+http://103.161.153.165:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",Bangla Vision
+http://103.161.153.165:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",BanglaTV HD
+http://103.161.153.165:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Bein Sports 1HD
+http://103.161.153.165:8000/play/beinsp1/index.m3u8
+#EXTINF:-1 group-title="-",BijoyTV
+http://103.161.153.165:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",Boishakhi TV
+http://103.161.153.165:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="-",CARTOON NETWORK SD
+http://103.161.153.165:8000/play/cn/index.m3u8
+#EXTINF:-1 group-title="-",CHANNEL 9 HD
+http://103.161.153.165:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",CINE+ PREMIUM HD
+http://103.161.153.165:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="-",CINEMAX HD
+http://103.161.153.165:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="-",CNN INTERNATIONAL_HD
+http://103.161.153.165:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",COLOR BANGLA
+http://103.161.153.165:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",COLORS BANGLA HD
+http://103.161.153.165:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",COLORS CINEPLEX_HD
+http://103.161.153.165:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="-",COLORS HD
+http://103.161.153.165:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",COLORSINFINTYHD
+http://103.161.153.165:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="-",Channel 24HD
+http://103.161.153.165:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",Channel I HD
+http://103.161.153.165:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",Channel S
+http://103.161.153.165:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",DBC NEWS
+http://103.161.153.165:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-",DESNEY JUNIRO
+http://103.161.153.165:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",DISCOVERY HD
+http://103.161.153.165:8000/play/dischd/index.m3u8
+#EXTINF:-1 group-title="-",DISCOVERY KIDS 1
+http://103.161.153.165:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="-",DISNEY
+http://103.161.153.165:8000/play/disney/index.m3u8
+#EXTINF:-1 group-title="-",DISNEYJUNIOR
+http://103.161.153.165:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",DOCUMENTARY HD
+http://103.161.153.165:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",DUBAI SPORTS 1
+http://103.161.153.165:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="-",DURANTA TV
+http://103.161.153.165:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",Deepto TV HD
+http://103.161.153.165:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="-",Desh TV
+http://103.161.153.165:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Dubai International
+http://103.161.153.165:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",EKHON TV
+http://103.161.153.165:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",ENTER 10 BANGLA
+http://103.161.153.165:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="-",ETV CINEMA HD
+http://103.161.153.165:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",EURO SPORT HD
+http://103.161.153.165:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",Ekattor TV HD
+http://103.161.153.165:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",Ekhbariya TV
+http://103.161.153.165:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="-",Ekushey TV         
+http://103.161.153.165:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",FOX ACTION MOVIES HD
+http://103.161.153.165:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",FOX ANIMATION HD
+http://103.161.153.165:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",FOX MOVIES PREMIUM HD
+http://103.161.153.165:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="-",France 24 HD (in English)
+http://103.161.153.165:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="-",GLOBAL TV HD
+http://103.161.153.165:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",Green TV HD
+http://103.161.153.165:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",HALLMARK HD
+http://103.161.153.165:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY TV 18HD
+http://103.161.153.165:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",HOLLYWOOD HD
+http://103.161.153.165:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="-",HUNGAMA SD
+http://103.161.153.165:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",ITV24
+http://103.161.153.165:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",JALSHA MOVIES HD
+http://103.161.153.165:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",Jamuna Television
+http://103.161.153.165:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Libya Al Wataniya
+http://103.161.153.165:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="-",MAA MAX HD
+http://103.161.153.165:8000/play/mamh/index.m3u8
+#EXTINF:-1 group-title="-",MAA MOVIES HD
+http://103.161.153.165:8000/play/mamvh/index.m3u8
+#EXTINF:-1 group-title="-",MAASRANGA TV HD
+http://103.161.153.165:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",MBC ACTION HD
+http://103.161.153.165:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",MBC BOLLYWOOD HD
+http://103.161.153.165:8000/play/mbcb/index.m3u8
+#EXTINF:-1 group-title="-",MBC2 HD
+http://103.161.153.165:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="-",MBC4 HD
+http://103.161.153.165:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="-",MN+ HD
+http://103.161.153.165:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",MNX_HD
+http://103.161.153.165:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",MOVIES NOW HD
+http://103.161.153.165:8000/play/mnh/index.m3u8
+#EXTINF:-1 group-title="-",MTV INDIA HD
+http://103.161.153.165:8000/play/mtv/index.m3u8
+#EXTINF:-1 group-title="-",MYTV HD
+http://103.161.153.165:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",Madani TV
+http://103.161.153.165:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",Mohona TV
+http://103.161.153.165:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",NAGORIK TV HD
+http://103.161.153.165:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",NAT GEO HD
+http://103.161.153.165:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",NAT GEO WILD HD
+http://103.161.153.165:8000/play/ngow/index.m3u8
+#EXTINF:-1 group-title="-",NEXUS TV ENC1
+http://103.161.153.165:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",NICK
+http://103.161.153.165:8000/play/nick/index.m3u8
+#EXTINF:-1 group-title="-",NICK HD+
+http://103.161.153.165:8000/play/nickhd/index.m3u8
+#EXTINF:-1 group-title="-",NTV HD EN-1
+http://103.161.153.165:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",News 24 HD
+http://103.161.153.165:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",Oman TV
+http://103.161.153.165:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",POGO
+http://103.161.153.165:8000/play/pogo/index.m3u8
+#EXTINF:-1 group-title="-",Qatar TV
+http://103.161.153.165:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="-",ROMEDY NOW
+http://103.161.153.165:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",Rtv HD
+http://103.161.153.165:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",SA TV HD
+http://103.161.153.165:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",SABTV HD
+http://103.161.153.165:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="-",SANGSAD TV HD
+http://103.161.153.165:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",SANONDAA CINEMA HD
+http://103.161.153.165:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="-",SKY CRICKET HD
+http://103.161.153.165:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",SONIC
+http://103.161.153.165:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="-",SONY AATH
+http://103.161.153.165:8000/play/sonyatth/index.m3u8
+#EXTINF:-1 group-title="-",SONY HD
+http://103.161.153.165:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",SONY MAX HD
+http://103.161.153.165:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",SONY PIX HD
+http://103.161.153.165:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="-",SONY SAB_HD
+http://103.161.153.165:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="-",SONY TEN 1 HD
+http://103.161.153.165:8000/play/sonyten1/index.m3u8
+#EXTINF:-1 group-title="-",SONY TEN 2 HD
+http://103.161.153.165:8000/play/sonyt2hd/index.m3u8
+#EXTINF:-1 group-title="-",SONY TEN 3 HD
+http://103.161.153.165:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",SONY TEN 5 HD
+http://103.161.153.165:8000/play/snt5/index.m3u8
+#EXTINF:-1 group-title="-",STAR  GOLD SEL_HD
+http://103.161.153.165:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="-",STAR BHARAT HD
+http://103.161.153.165:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",STAR GOLD HD
+http://103.161.153.165:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",STAR JALSHA HD
+http://103.161.153.165:8000/play/starjal/index.m3u8
+#EXTINF:-1 group-title="-",STAR MOVIES HD
+http://103.161.153.165:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",STAR MOVIES SEL HD
+http://103.161.153.165:8000/play/strmshd/index.m3u8
+#EXTINF:-1 group-title="-",STAR NEWS HD
+http://103.161.153.165:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",STAR PLUS HD
+http://103.161.153.165:8000/play/strpl/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS 1 HD
+http://103.161.153.165:8000/play/stp1h/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS 2 HD
+http://103.161.153.165:8000/play/stp2h/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS 3
+http://103.161.153.165:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS HINDI 2 HD
+http://103.161.153.165:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS HINDI 2_HD
+http://103.161.153.165:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS SEL 2 HD
+http://103.161.153.165:8000/play/starspsel2/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS SL 1 HD
+http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
+#EXTINF:-1 group-title="-",SUN BANGLA HD
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="-",Saudi Quran
+http://103.161.153.165:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="-",Saudi Sunnah
+http://103.161.153.165:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-",Sharjah TV
+http://103.161.153.165:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",Somoy TV
+http://103.161.153.165:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Sudan TV
+http://103.161.153.165:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="-",T Sports_HD
+http://103.161.153.165:8000/play/tspohd/index.m3u8
+#EXTINF:-1 group-title="-",TLC HD
+http://103.161.153.165:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="-",TNT SPORTS
+http://103.161.153.165:8000/play/willowcric2/index.m3u8
+#EXTINF:-1 group-title="-",TNT SPORTS 2 HD
+http://103.161.153.165:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",TNT SPORTS 3 HD
+http://103.161.153.165:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="-",TNT SPORTS 4 HD
+http://103.161.153.165:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",TRAVEL XP_HD
+http://103.161.153.165:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL HD
+http://103.161.153.165:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",UTV CINEMA HD
+http://103.161.153.165:8000/play/utvc/index.m3u8
+#EXTINF:-1 group-title="-",UTV CLASSIC HD
+http://103.161.153.165:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",UTV GOLD HD
+http://103.161.153.165:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",UTV MAX HD
+http://103.161.153.165:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="-",UTV MOVIES HD
+http://103.161.153.165:8000/play/utvm/index.m3u8
+#EXTINF:-1 group-title="-",UTV PICTURES HD
+http://103.161.153.165:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",WEB SERIES HD1
+http://103.161.153.165:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="-",WILLOW CRICKET 2 HD
+http://103.161.153.165:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",Willow Cricket HD
+http://103.161.153.165:8000/play/willowcrichd/index.m3u8
+#EXTINF:-1 group-title="-",ZEE ACTION 
+http://103.161.153.165:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="-",ZEE BANGLA CENEMA
+http://103.161.153.165:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="-",ZEE BANGLA CINEMA
+http://103.161.153.165:8000/play/zeebncn/index.m3u8
+#EXTINF:-1 group-title="-",ZEE BANGLA HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 group-title="-",ZEE CINEMA
+http://103.161.153.165:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-",ZEE TV HD
+http://103.161.153.165:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",asiantvHD
+http://103.161.153.165:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",kuwait TV
+http://103.161.153.165:8000/play/a04x/index.m3u8
