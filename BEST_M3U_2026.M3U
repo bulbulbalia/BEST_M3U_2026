@@ -198,7 +198,8 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_2
 http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="-",!!!!
+#EXTINF:-1,SMOOTH_BDIX
+#EXTINF:-1 group-title="-",ANIMAL_PLANET
 http://103.161.153.165:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="-",& FLIX HD
 http://103.161.153.165:8000/play/a01z/index.m3u8
