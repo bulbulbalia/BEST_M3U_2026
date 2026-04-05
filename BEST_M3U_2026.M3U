@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,PEACE_TV_BANGLA
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+http://172.20.3.1:3255/PEACE-TV-BANGLA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ISLAMIC_TV_BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 #EXTINF:-1,RTV
