@@ -197,7 +197,6 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_2
 http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
-#EXTM3U
 #EXTM3U:-1,SMOOTH_BDIX
 #EXTINF:-1 group-title="-",ANIMAL_PLANET
 http://103.161.153.165:8000/play/a056/index.m3u8
