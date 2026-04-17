@@ -319,7 +319,6 @@ http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=5ab61508ce7bfa5
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/National Geography.png" group-title="SM BDIX",National Geography
 http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8?token=9c711fb092eecc70b0a0f4a83300a3af0e7d9410-9cb216d2f38057d3da050c2ce5b018b8-1776049491-1776045891&remote=no_check_ip
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,STAR_JOLSHA
 http://172.20.3.1:3255/starjolsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA
