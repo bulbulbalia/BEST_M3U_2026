@@ -383,3 +383,401 @@ http://172.16.29.3:8090/hls/BeinSports1ENG.m3u8
 http://172.20.3.1:3255/willow1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TEN_CRICKET
 http://172.20.3.1:3255/SonyTenCricket/tracks-v1a1/mono.m3u8
+# This playlist is for local users only. 
+# Created by @FTPBD
+# Telegram by https://t.me/ftpbd 
+# Last updated 2026-04-18 13:55:18 UTC
+# Recommended players: For PC: VLC, PotPlayer, For Android & TV: Televizo,TiviMate, OTT Navigator & For Samsung TV: M3U IPTV ▶️ 
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="stream_001" tvg-name="SN Cast" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/promo/logo_1.png" tvg-chno="" group-title="SN_HLS",SN Cast
+http://100.100.100.2/flussonic/7srv.php?stream=sn/sn_cast.mp4&format=m3u8
+#EXTINF:-1 tvg-id="IPL BANGLA 2026" tvg-name="IPL_Bengali" tvg-genre="0_IPL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl_bn.png" tvg-chno="" group-title="0_IPL_2026",IPL_Bengali
+http://100.100.100.2/flussonic/7srv.php?stream=IPL_Bengali&format=m3u8
+#EXTINF:-1 tvg-id="IPL BANGLA JIO_STAR" tvg-name="IPL BANGLA" tvg-genre="0_IPL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl_bn.png" tvg-chno="" group-title="0_IPL_2026",IPL BANGLA
+http://100.100.100.2/flussonic/20srv.php?stream=IPL_BN&format=m3u8
+#EXTINF:-1 tvg-id="stream_002" tvg-name="IPL_2026_0" tvg-genre="0_IPL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl.png" tvg-chno="" group-title="0_IPL_2026",IPL_2026_0
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_003" tvg-name="IPL_2026_HN" tvg-genre="0_IPL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl.png" tvg-chno="" group-title="0_IPL_2026",IPL_2026_HN
+http://100.100.100.2/flussonic/19srv.php?stream=IPL_2026_HN&format=m3u8
+#EXTINF:-1 tvg-id="stream_004" tvg-name="IPL_2026_EN" tvg-genre="0_IPL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl.png" tvg-chno="" group-title="0_IPL_2026",IPL_2026_EN
+http://100.100.100.2/flussonic/20srv.php?stream=IPL_2026_EN&format=m3u8
+#EXTINF:-1 tvg-id="stream_005" tvg-name="PSL 2026 (S19)" tvg-genre="0_PSL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/psl.png" tvg-chno="" group-title="0_PSL_2026",PSL 2026 (S19)
+http://100.100.100.2/flussonic/19srv.php?stream=psl_ptv&format=m3u8
+#EXTINF:-1 tvg-id="stream_005_psl" tvg-name="PSL 2026 (S19)" tvg-genre="0_PSL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/psl.png" tvg-chno="" group-title="0_PSL_2026",PSL 2026 (S19)
+http://100.100.100.2/flussonic/19srv.php?stream=psl_tsports&format=m3u8
+#EXTINF:-1 tvg-id="stream_006" tvg-name="PSL 2026 (S20)" tvg-genre="0_PSL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/psl.png" tvg-chno="" group-title="0_PSL_2026",PSL 2026 (S20)
+http://100.100.100.2/flussonic/20srv.php?stream=psl_tsports&format=m3u8
+#EXTINF:-1 tvg-id="stream_007" tvg-name="PSL 2026 (S20)" tvg-genre="0_PSL_2026" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/psl.png" tvg-chno="" group-title="0_PSL_2026",PSL 2026 (S20)
+http://100.100.100.2/flussonic/20srv.php?stream=psl_ptv&format=m3u8
+#EXTINF:-1 tvg-id="stream_008" tvg-name="T Sports HD" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsportshd.png" tvg-chno="" group-title="1_SnTV",T Sports HD
+http://100.100.100.2/flussonic/7srv.php?stream=tsports_sn&format=m3u8
+#EXTINF:-1 tvg-id="stream_009" tvg-name="T Sports HD Bengal" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsports.png" tvg-chno="" group-title="1_SnTV",T Sports HD Bengal
+http://100.100.100.2/flussonic/7srv.php?stream=tsports_bengal&format=m3u8
+#EXTINF:-1 tvg-id="stream_010" tvg-name="Star Jalsha HD (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_jalsha.png" tvg-chno="" group-title="SN_HLS",Star Jalsha HD (HLS)
+http://100.100.100.10/hls/0.m3u8
+#EXTINF:-1 tvg-id="stream_011" tvg-name="IPL BANGLA (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/ipl_bn.png" tvg-chno="" group-title="SN_HLS",IPL BANGLA (HLS)
+http://100.100.100.10/hls/1.m3u8
+#EXTINF:-1 tvg-id="stream_012" tvg-name="Star Sports Select 1 HD (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_select_1_hd.png" tvg-chno="" group-title="SN_HLS",Star Sports Select 1 HD (HLS)
+http://100.100.100.10/hls/2.m3u8
+#EXTINF:-1 tvg-id="stream_013" tvg-name="Sony Ten 2 HD (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ten2_sn.png" tvg-chno="" group-title="SN_HLS",Sony Ten 2 HD (HLS)
+http://100.100.100.10/hls/3.m3u8
+#EXTINF:-1 tvg-id="stream_014" tvg-name="T SportsHD (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsports.png" tvg-chno="" group-title="SN_HLS",T SportsHD (HLS)
+http://100.100.100.10/hls/4.m3u8
+#EXTINF:-1 tvg-id="stream_015" tvg-name="Star Sports 1 & 2 HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_1_2.png" tvg-chno="" group-title="SN_HLS",Star Sports 1 & 2 HLS)
+http://100.100.100.10/hls/5.m3u8
+#EXTINF:-1 tvg-id="stream_016" tvg-name="TSports HD (HLS)" tvg-genre="SN_HLS" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsports.png" tvg-chno="" group-title="SN_HLS",TSports HD (HLS)
+http://100.100.100.10/hls/6.m3u8
+#EXTINF:-1 tvg-id="stream_017" tvg-name="ASports" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/a_sports_hd.png" tvg-chno="" group-title="1_SnTV",ASports
+http://100.100.100.2/flussonic/7srv.php?stream=asports&format=m3u8
+#EXTINF:-1 tvg-id="stream_018" tvg-name="Nagorik Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/nagorik_tv.png" tvg-chno="" group-title="Bangla",Nagorik Tv
+http://100.100.100.2/flussonic/7srv.php?stream=nagorik_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_019" tvg-name="PTV SN" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ptv.png" tvg-chno="" group-title="1_SnTV",PTV SN
+http://100.100.100.2/flussonic/7srv.php?stream=ptv_sn&format=m3u8
+#EXTINF:-1 tvg-id="stream_020" tvg-name="Star Jalsha" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_jalsha.png" tvg-chno="" group-title="1_SnTV",Star Jalsha
+http://100.100.100.2/flussonic/7srv.php?stream=star_jalsha&format=m3u8
+#EXTINF:-1 tvg-id="stream_021" tvg-name="Star Sports 1 2" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_1_2.png" tvg-chno="" group-title="1_SnTV",Star Sports 1 2
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_1_2&format=m3u8
+#EXTINF:-1 tvg-id="stream_022" tvg-name="Star Sports 1 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_1_hd.png" tvg-chno="" group-title="Sports",Star Sports 1 Hd
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_023" tvg-name="Star Sports Select 1" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_select_1_hd.png" tvg-chno="" group-title="1_SnTV",Star Sports Select 1
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_select_1&format=m3u8
+#EXTINF:-1 tvg-id="stream_024" tvg-name="Star Sports Select 2" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_select_2_hd.png" tvg-chno="" group-title="1_SnTV",Star Sports Select 2
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_select_2&format=m3u8
+#EXTINF:-1 tvg-id="stream_025" tvg-name="Ten2 SN" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_2_hd.png" tvg-chno="" group-title="1_SnTV",Ten2 SN
+http://100.100.100.2/flussonic/7srv.php?stream=ten2_sn&format=m3u8
+#EXTINF:-1 tvg-id="stream_026" tvg-name="Ten5 SN" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_5_hd.png" tvg-chno="" group-title="1_SnTV",Ten5 SN
+http://100.100.100.2/flussonic/7srv.php?stream=ten5_sn&format=m3u8
+#EXTINF:-1 tvg-id="stream_027" tvg-name="TSports Bengal" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsports.png" tvg-chno="" group-title="1_SnTV",TSports Bengal
+http://100.100.100.2/flussonic/7srv.php?stream=tsports_bengal&format=m3u8
+#EXTINF:-1 tvg-id="stream_028" tvg-name="TSports SN" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tsportshd.png" tvg-chno="" group-title="1_SnTV",TSports SN
+http://100.100.100.2/flussonic/7srv.php?stream=tsports_sn&format=m3u8
+#EXTINF:-1 tvg-id="stream_029" tvg-name="A Sports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/a_sports_hd.png" tvg-chno="" group-title="Sports",A Sports Hd
+http://100.100.100.2/flussonic/8srv.php?stream=a_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_030" tvg-name="Eurosports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/eurosports_hd.png" tvg-chno="" group-title="Sports",Eurosports Hd
+http://100.100.100.2/flussonic/8srv.php?stream=eurosports_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_031" tvg-name="Fast Sports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/fast_sports_hd.png" tvg-chno="" group-title="Sports",Fast Sports Hd
+http://100.100.100.2/flussonic/8srv.php?stream=fast_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_032" tvg-name="Ptv Sports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ptv_sports_hd.png" tvg-chno="" group-title="Sports",Ptv Sports Hd
+http://100.100.100.2/flussonic/8srv.php?stream=ptv_sports_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_033" tvg-name="Sony Sports Ten 1 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_1_hd.png" tvg-chno="" group-title="Sports",Sony Sports Ten 1 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=sony_sports_ten_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_034" tvg-name="Sony Sports Ten 2 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_2_hd.png" tvg-chno="" group-title="Sports",Sony Sports Ten 2 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=sony_sports_ten_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_035" tvg-name="Sony Sports Ten 3 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_3_hd.png" tvg-chno="" group-title="Sports",Sony Sports Ten 3 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=sony_sports_ten_3_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_036" tvg-name="Sony Sports Ten 4 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_4_hd.png" tvg-chno="" group-title="Sports",Sony Sports Ten 4 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=sony_sports_ten_4_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_037" tvg-name="Sony Sports Ten 5 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sports_ten_5_hd.png" tvg-chno="" group-title="Sports",Sony Sports Ten 5 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=sony_sports_ten_5_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_038" tvg-name="Sony Ten Cricket" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_ten_cricket.png" tvg-chno="" group-title="Sports",Sony Ten Cricket
+http://100.100.100.2/flussonic/8srv.php?stream=sony_ten_cricket&format=m3u8
+#EXTINF:-1 tvg-id="stream_039" tvg-name="Star Sports 1 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_1_hd.png" tvg-chno="" group-title="Sports",Star Sports 1 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_040" tvg-name="Star Sports 2 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_2_hd.png" tvg-chno="" group-title="Sports",Star Sports 2 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_041" tvg-name="Star Sports 3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_3.png" tvg-chno="" group-title="Sports",Star Sports 3
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_3&format=m3u8
+#EXTINF:-1 tvg-id="stream_042" tvg-name="Star Sports Select 1 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_select_1_hd.png" tvg-chno="" group-title="Sports",Star Sports Select 1 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_select_1_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_043" tvg-name="Star Sports Select 2 Hd" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_sports_select_2_hd.png" tvg-chno="" group-title="Sports",Star Sports Select 2 Hd
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_select_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_044" tvg-name="T Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/t_sports.png" tvg-chno="" group-title="Sports",T Sports
+http://100.100.100.2/flussonic/8srv.php?stream=t_sports_vip&format=m3u8
+#EXTINF:-1 tvg-id="stream_045" tvg-name="71" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/71.png" tvg-chno="" group-title="Bangla",71
+http://100.100.100.2/flussonic/9srv.php?stream=71&format=m3u8
+#EXTINF:-1 tvg-id="stream_046" tvg-name="Ananda Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ananda_tv.png" tvg-chno="" group-title="Bangla",Ananda Tv
+http://100.100.100.2/flussonic/9srv.php?stream=ananda_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_047" tvg-name="Asian Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/asian_tv.png" tvg-chno="" group-title="Bangla",Asian Tv
+http://100.100.100.2/flussonic/9srv.php?stream=asian_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_048" tvg-name="Atn Bangla" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/atn_bangla.png" tvg-chno="" group-title="Bangla",Atn Bangla
+http://100.100.100.2/flussonic/9srv.php?stream=atn_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_049" tvg-name="Atn News" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/atn_news.png" tvg-chno="" group-title="News",Atn News
+http://100.100.100.2/flussonic/9srv.php?stream=atn_news&format=m3u8
+#EXTINF:-1 tvg-id="stream_050" tvg-name="Bangla Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bangla_tv.png" tvg-chno="" group-title="Bangla",Bangla Tv
+http://100.100.100.2/flussonic/9srv.php?stream=bangla_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_051" tvg-name="Bangla Vision" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bangla_vision.png" tvg-chno="" group-title="Bangla",Bangla Vision
+http://100.100.100.2/flussonic/9srv.php?stream=bangla_vision&format=m3u8
+#EXTINF:-1 tvg-id="stream_052" tvg-name="Bijoy Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bijoy_tv.png" tvg-chno="" group-title="Bangla",Bijoy Tv
+http://100.100.100.2/flussonic/9srv.php?stream=bijoy_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_053" tvg-name="Boishakhi Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/boishakhi_tv.png" tvg-chno="" group-title="Bangla",Boishakhi Tv
+http://100.100.100.2/flussonic/9srv.php?stream=boishakhi_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_054" tvg-name="Btv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/btv.png" tvg-chno="" group-title="Bangla",Btv
+http://100.100.100.2/flussonic/9srv.php?stream=btv&format=m3u8
+#EXTINF:-1 tvg-id="stream_055" tvg-name="Btv News" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/btv_news.png" tvg-chno="" group-title="Bangla",Btv News
+http://100.100.100.2/flussonic/9srv.php?stream=btv_news&format=m3u8
+#EXTINF:-1 tvg-id="stream_056" tvg-name="Channel 24" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/channel_24.png" tvg-chno="" group-title="Bangla",Channel 24
+http://100.100.100.2/flussonic/9srv.php?stream=channel_24&format=m3u8
+#EXTINF:-1 tvg-id="stream_057" tvg-name="Channel 9" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/channel_9.png" tvg-chno="" group-title="Bangla",Channel 9
+http://100.100.100.2/flussonic/9srv.php?stream=channel_9&format=m3u8
+#EXTINF:-1 tvg-id="stream_058" tvg-name="Channel I" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/channel_i.png" tvg-chno="" group-title="Bangla",Channel I
+http://100.100.100.2/flussonic/9srv.php?stream=channel_i&format=m3u8
+#EXTINF:-1 tvg-id="stream_059" tvg-name="Dbc News" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/dbc_news.png" tvg-chno="" group-title="News",Dbc News
+http://100.100.100.2/flussonic/9srv.php?stream=dbc_news&format=m3u8
+#EXTINF:-1 tvg-id="stream_060" tvg-name="Deepto Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/deepto_tv.png" tvg-chno="" group-title="Bangla",Deepto Tv
+http://100.100.100.2/flussonic/9srv.php?stream=deepto_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_061" tvg-name="Desh Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/desh_tv.png" tvg-chno="" group-title="Bangla",Desh Tv
+http://100.100.100.2/flussonic/9srv.php?stream=desh_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_062" tvg-name="Duronto Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/duronto_tv.png" tvg-chno="" group-title="Bangla",Duronto Tv
+http://100.100.100.2/flussonic/9srv.php?stream=duronto_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_063" tvg-name="Ekhon Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ekhon_tv.png" tvg-chno="" group-title="Bangla",Ekhon Tv
+http://100.100.100.2/flussonic/9srv.php?stream=ekhon_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_064" tvg-name="Etv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/etv.png" tvg-chno="" group-title="Bangla",Etv
+http://100.100.100.2/flussonic/9srv.php?stream=etv&format=m3u8
+#EXTINF:-1 tvg-id="stream_065" tvg-name="Global Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/global_tv.png" tvg-chno="" group-title="Bangla",Global Tv
+http://100.100.100.2/flussonic/9srv.php?stream=global_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_066" tvg-name="Gtv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/gtv.png" tvg-chno="" group-title="Bangla",Gtv
+http://100.100.100.2/flussonic/9srv.php?stream=gtv&format=m3u8
+#EXTINF:-1 tvg-id="stream_067" tvg-name="Independent Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/independent_tv.png" tvg-chno="" group-title="Bangla",Independent Tv
+http://100.100.100.2/flussonic/9srv.php?stream=independent_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_068" tvg-name="Jamuna Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/jamuna_tv.png" tvg-chno="" group-title="Bangla",Jamuna Tv
+http://100.100.100.2/flussonic/9srv.php?stream=jamuna_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_069" tvg-name="Maasranga Hd" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/maasranga_hd.png" tvg-chno="" group-title="Bangla",Maasranga Hd
+http://100.100.100.2/flussonic/9srv.php?stream=maasranga_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_070" tvg-name="Mohona Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/mohona_tv.png" tvg-chno="" group-title="Bangla",Mohona Tv
+http://100.100.100.2/flussonic/9srv.php?stream=mohona_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_071" tvg-name="Movie Bangla Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/movie_bangla_tv.png" tvg-chno="" group-title="Bangla",Movie Bangla Tv
+http://100.100.100.2/flussonic/9srv.php?stream=movie_bangla_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_072" tvg-name="My Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/my_tv.png" tvg-chno="" group-title="Bangla",My Tv
+http://100.100.100.2/flussonic/9srv.php?stream=my_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_073" tvg-name="Nagorik Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/nagorik_tv.png" tvg-chno="" group-title="Bangla",Nagorik Tv
+http://100.100.100.2/flussonic/9srv.php?stream=nagorik_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_074" tvg-name="News24" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/news24.png" tvg-chno="" group-title="News",News24
+http://100.100.100.2/flussonic/9srv.php?stream=news24&format=m3u8
+#EXTINF:-1 tvg-id="stream_075" tvg-name="Nexus Tv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/nexus_tv.png" tvg-chno="" group-title="Bangla",Nexus Tv
+http://100.100.100.2/flussonic/9srv.php?stream=nexus_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_076" tvg-name="Ntv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ntv.png" tvg-chno="" group-title="Bangla",Ntv
+http://100.100.100.2/flussonic/9srv.php?stream=ntv&format=m3u8
+#EXTINF:-1 tvg-id="stream_077" tvg-name="Rtv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/rtv.png" tvg-chno="" group-title="Bangla",Rtv
+http://100.100.100.2/flussonic/9srv.php?stream=rtv&format=m3u8
+#EXTINF:-1 tvg-id="stream_078" tvg-name="Satv" tvg-genre="Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/satv.png" tvg-chno="" group-title="Bangla",Satv
+http://100.100.100.2/flussonic/9srv.php?stream=satv&format=m3u8
+#EXTINF:-1 tvg-id="stream_079" tvg-name="Somoy Tv" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/somoy_tv.png" tvg-chno="" group-title="News",Somoy Tv
+http://100.100.100.2/flussonic/9srv.php?stream=somoy_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_080" tvg-name="Akash Aat" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/akash_aat.png" tvg-chno="" group-title="Indian Bangla",Akash Aat
+http://100.100.100.2/flussonic/11srv.php?stream=akash_aat&format=m3u8
+#EXTINF:-1 tvg-id="stream_081" tvg-name="Colors Bangla Cinema" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/colors_bangla_cinema.png" tvg-chno="" group-title="Indian Bangla",Colors Bangla Cinema
+http://100.100.100.2/flussonic/11srv.php?stream=colors_bangla_cinema&format=m3u8
+#EXTINF:-1 tvg-id="stream_082" tvg-name="Colors Bangla Hd" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/colors_bangla_hd.png" tvg-chno="" group-title="Indian Bangla",Colors Bangla Hd
+http://100.100.100.2/flussonic/11srv.php?stream=colors_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_083" tvg-name="Enterr 10" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/enterr_10.png" tvg-chno="" group-title="Indian Bangla",Enterr 10
+http://100.100.100.2/flussonic/11srv.php?stream=enterr_10&format=m3u8
+#EXTINF:-1 tvg-id="stream_084" tvg-name="Jalsha Movies Hd" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/jalsha_movies_hd.png" tvg-chno="" group-title="Indian Bangla",Jalsha Movies Hd
+http://100.100.100.2/flussonic/11srv.php?stream=jalsha_movies_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_085" tvg-name="Khushboo Tv Bangla" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/khushboo_tv_bangla.png" tvg-chno="" group-title="Indian Bangla",Khushboo Tv Bangla
+http://100.100.100.2/flussonic/11srv.php?stream=khushboo_tv_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_086" tvg-name="Rongeen Tv" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/rongeen_tv.png" tvg-chno="" group-title="Indian Bangla",Rongeen Tv
+http://100.100.100.2/flussonic/11srv.php?stream=rongeen_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_087" tvg-name="Ruposhi Bangla" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ruposhi_bangla.png" tvg-chno="" group-title="Indian Bangla",Ruposhi Bangla
+http://100.100.100.2/flussonic/11srv.php?stream=ruposhi_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_088" tvg-name="Sony Aath" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_aath.png" tvg-chno="" group-title="Indian Bangla",Sony Aath
+http://100.100.100.2/flussonic/11srv.php?stream=sony_aath&format=m3u8
+#EXTINF:-1 tvg-id="stream_089" tvg-name="Star Jalsha Hd" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_jalsha_hd.png" tvg-chno="" group-title="Indian Bangla",Star Jalsha Hd
+http://100.100.100.2/flussonic/11srv.php?stream=star_jalsha_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_090" tvg-name="Sun Bangla Hd" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sun_bangla_hd.png" tvg-chno="" group-title="Indian Bangla",Sun Bangla Hd
+http://100.100.100.2/flussonic/11srv.php?stream=sun_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_091" tvg-name="Zee 24 Ghanta" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_24_ghanta.png" tvg-chno="" group-title="Indian Bangla",Zee 24 Ghanta
+http://100.100.100.2/flussonic/11srv.php?stream=zee_24_ghanta&format=m3u8
+#EXTINF:-1 tvg-id="stream_092" tvg-name="Zee Bangla Cinema" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_bangla_cinema.png" tvg-chno="" group-title="Indian Bangla",Zee Bangla Cinema
+http://100.100.100.2/flussonic/11srv.php?stream=zee_bangla_cinema&format=m3u8
+#EXTINF:-1 tvg-id="stream_093" tvg-name="Zee Bangla Hd" tvg-genre="Indian Bangla" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_bangla_hd.png" tvg-chno="" group-title="Indian Bangla",Zee Bangla Hd
+http://100.100.100.2/flussonic/11srv.php?stream=zee_bangla_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_094" tvg-name="And Picture" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/and_picture.png" tvg-chno="" group-title="Hindi",And Picture
+http://100.100.100.2/flussonic/12srv.php?stream=and_picture&format=m3u8
+#EXTINF:-1 tvg-id="stream_095" tvg-name="And Picturs Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/and_picturs_hd.png" tvg-chno="" group-title="Hindi",And Picturs Hd
+http://100.100.100.2/flussonic/12srv.php?stream=and_picturs_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_096" tvg-name="B4u Movies" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/b4u_movies.png" tvg-chno="" group-title="Hindi",B4u Movies
+http://100.100.100.2/flussonic/12srv.php?stream=b4u_movies&format=m3u8
+#EXTINF:-1 tvg-id="stream_097" tvg-name="B4u Music" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/b4u_music.png" tvg-chno="" group-title="Hindi",B4u Music
+http://100.100.100.2/flussonic/12srv.php?stream=b4u_music&format=m3u8
+#EXTINF:-1 tvg-id="stream_098" tvg-name="Colors Cineplex Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/colors_cineplex_hd.png" tvg-chno="" group-title="Hindi",Colors Cineplex Hd
+http://100.100.100.2/flussonic/12srv.php?stream=colors_cineplex_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_099" tvg-name="Colors Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/colors_hd.png" tvg-chno="" group-title="Hindi",Colors Hd
+http://100.100.100.2/flussonic/12srv.php?stream=colors_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_100" tvg-name="Geo News Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/geo_news_hd.png" tvg-chno="" group-title="Hindi",Geo News Hd
+http://100.100.100.2/flussonic/12srv.php?stream=geo_news_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_101" tvg-name="Goldmines" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/goldmines.png" tvg-chno="" group-title="Hindi",Goldmines
+http://100.100.100.2/flussonic/12srv.php?stream=goldmines&format=m3u8
+#EXTINF:-1 tvg-id="stream_102" tvg-name="Goldmines Bollywood" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/goldmines_bollywood.png" tvg-chno="" group-title="Hindi",Goldmines Bollywood
+http://100.100.100.2/flussonic/12srv.php?stream=goldmines_bollywood&format=m3u8
+#EXTINF:-1 tvg-id="stream_103" tvg-name="Goldmines Movies" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/goldmines_movies.png" tvg-chno="" group-title="Hindi",Goldmines Movies
+http://100.100.100.2/flussonic/12srv.php?stream=goldmines_movies&format=m3u8
+#EXTINF:-1 tvg-id="stream_104" tvg-name="Hum Masala" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/hum_masala.png" tvg-chno="" group-title="Hindi",Hum Masala
+http://100.100.100.2/flussonic/12srv.php?stream=hum_masala&format=m3u8
+#EXTINF:-1 tvg-id="stream_105" tvg-name="Hum Sitarey" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/hum_sitarey.png" tvg-chno="" group-title="Hindi",Hum Sitarey
+http://100.100.100.2/flussonic/12srv.php?stream=hum_sitarey&format=m3u8
+#EXTINF:-1 tvg-id="stream_106" tvg-name="Hum Tv" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/hum_tv.png" tvg-chno="" group-title="Hindi",Hum Tv
+http://100.100.100.2/flussonic/12srv.php?stream=hum_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_107" tvg-name="Sony Ent Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_ent_hd.png" tvg-chno="" group-title="Hindi",Sony Ent Hd
+http://100.100.100.2/flussonic/12srv.php?stream=sony_ent_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_108" tvg-name="Sony Max" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_max.png" tvg-chno="" group-title="Hindi",Sony Max
+http://100.100.100.2/flussonic/12srv.php?stream=sony_max&format=m3u8
+#EXTINF:-1 tvg-id="stream_109" tvg-name="Sony Max Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_max_hd.png" tvg-chno="" group-title="Hindi",Sony Max Hd
+http://100.100.100.2/flussonic/12srv.php?stream=sony_max_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_110" tvg-name="Sony Max2" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_max2.png" tvg-chno="" group-title="Hindi",Sony Max2
+http://100.100.100.2/flussonic/12srv.php?stream=sony_max2&format=m3u8
+#EXTINF:-1 tvg-id="stream_111" tvg-name="Sony Sab" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_sab.png" tvg-chno="" group-title="Hindi",Sony Sab
+http://100.100.100.2/flussonic/12srv.php?stream=sony_sab&format=m3u8
+#EXTINF:-1 tvg-id="stream_112" tvg-name="Sony Wah" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_wah.png" tvg-chno="" group-title="Hindi",Sony Wah
+http://100.100.100.2/flussonic/12srv.php?stream=sony_wah&format=m3u8
+#EXTINF:-1 tvg-id="stream_113" tvg-name="Star Bharat Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_bharat_hd.png" tvg-chno="" group-title="Hindi",Star Bharat Hd
+http://100.100.100.2/flussonic/12srv.php?stream=star_bharat_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_114" tvg-name="Star Gold 2 Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_gold_2_hd.png" tvg-chno="" group-title="Hindi",Star Gold 2 Hd
+http://100.100.100.2/flussonic/12srv.php?stream=star_gold_2_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_115" tvg-name="Star Gold Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_gold_hd.png" tvg-chno="" group-title="Hindi",Star Gold Hd
+http://100.100.100.2/flussonic/12srv.php?stream=star_gold_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_116" tvg-name="Star Gold Select Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_gold_select_hd.png" tvg-chno="" group-title="Hindi",Star Gold Select Hd
+http://100.100.100.2/flussonic/12srv.php?stream=star_gold_select_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_117" tvg-name="Star Plus Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_plus_hd.png" tvg-chno="" group-title="Hindi",Star Plus Hd
+http://100.100.100.2/flussonic/12srv.php?stream=star_plus_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_118" tvg-name="Zee Cinema" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_cinema_hd.png" tvg-chno="" group-title="Hindi",Zee Cinema
+http://100.100.100.2/flussonic/12srv.php?stream=zee_cinema&format=m3u8
+#EXTINF:-1 tvg-id="stream_119" tvg-name="Zee Cinema Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_cinema_hd.png" tvg-chno="" group-title="Hindi",Zee Cinema Hd
+http://100.100.100.2/flussonic/12srv.php?stream=zee_cinema_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_120" tvg-name="Zee Tv Hd" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_tv_hd.png" tvg-chno="" group-title="Hindi",Zee Tv Hd
+http://100.100.100.2/flussonic/12srv.php?stream=zee_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_121" tvg-name="Zing" tvg-genre="Hindi" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zing.png" tvg-chno="" group-title="Hindi",Zing
+http://100.100.100.2/flussonic/12srv.php?stream=zing&format=m3u8
+#EXTINF:-1 tvg-id="stream_122" tvg-name="Bal Bharat" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bal_bharat.png" tvg-chno="" group-title="Kids",Bal Bharat
+http://100.100.100.2/flussonic/13srv.php?stream=bal_bharat&format=m3u8
+#EXTINF:-1 tvg-id="stream_123" tvg-name="Cartoon Network" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cartoon_network.png" tvg-chno="" group-title="Kids",Cartoon Network
+http://100.100.100.2/flussonic/13srv.php?stream=cartoon_network&format=m3u8
+#EXTINF:-1 tvg-id="stream_124" tvg-name="Cn Network" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cn.png" tvg-chno="" group-title="Kids",Cn Network
+http://100.100.100.2/flussonic/13srv.php?stream=cn&format=m3u8
+#EXTINF:-1 tvg-id="stream_125" tvg-name="Discovery Kids" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/discovery_kids.png" tvg-chno="" group-title="Kids",Discovery Kids
+http://100.100.100.2/flussonic/13srv.php?stream=discovery_kids&format=m3u8
+#EXTINF:-1 tvg-id="stream_126" tvg-name="Disney Hindi" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/disney_hindi.png" tvg-chno="" group-title="Kids",Disney Hindi
+http://100.100.100.2/flussonic/13srv.php?stream=disney_hindi&format=m3u8
+#EXTINF:-1 tvg-id="stream_127" tvg-name="Duranta Tv" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/duranta_tv.png" tvg-chno="" group-title="Kids",Duranta Tv
+http://100.100.100.2/flussonic/13srv.php?stream=duranta_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_128" tvg-name="Hungama" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/hungama.png" tvg-chno="" group-title="Kids",Hungama
+http://100.100.100.2/flussonic/13srv.php?stream=hungama&format=m3u8
+#EXTINF:-1 tvg-id="stream_129" tvg-name="Iqra Bangla" tvg-genre="Religious" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/iqra_bangla.png" tvg-chno="" group-title="Religious",Iqra Bangla
+http://100.100.100.2/flussonic/13srv.php?stream=iqra_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_130" tvg-name="Madani Tv Hd" tvg-genre="Religious" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/madani_tv_hd.png" tvg-chno="" group-title="Religious",Madani Tv Hd
+http://100.100.100.2/flussonic/13srv.php?stream=madani_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_131" tvg-name="Nick" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/nick.png" tvg-chno="" group-title="Kids",Nick
+http://100.100.100.2/flussonic/13srv.php?stream=nick&format=m3u8
+#EXTINF:-1 tvg-id="stream_132" tvg-name="Nick Jr" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/nick_jr.png" tvg-chno="" group-title="Kids",Nick Jr
+http://100.100.100.2/flussonic/13srv.php?stream=nick_jr&format=m3u8
+#EXTINF:-1 tvg-id="stream_133" tvg-name="Peace Tv Bangla" tvg-genre="Religious" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/peace_tv_bangla.png" tvg-chno="" group-title="Religious",Peace Tv Bangla
+http://100.100.100.2/flussonic/13srv.php?stream=peace_tv_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_134" tvg-name="Pogo" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/pogo.png" tvg-chno="" group-title="Kids",Pogo
+http://100.100.100.2/flussonic/13srv.php?stream=pogo&format=m3u8
+#EXTINF:-1 tvg-id="stream_135" tvg-name="Sonic" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sonic.png" tvg-chno="" group-title="Kids",Sonic
+http://100.100.100.2/flussonic/13srv.php?stream=sonic&format=m3u8
+#EXTINF:-1 tvg-id="stream_136" tvg-name="Sony Yay" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_yay.png" tvg-chno="" group-title="Kids",Sony Yay
+http://100.100.100.2/flussonic/13srv.php?stream=sony_yay&format=m3u8
+#EXTINF:-1 tvg-id="stream_137" tvg-name="Super Hungama" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/super_hungama.png" tvg-chno="" group-title="Kids",Super Hungama
+http://100.100.100.2/flussonic/13srv.php?stream=super_hungama&format=m3u8
+#EXTINF:-1 tvg-id="stream_138" tvg-name="FanCode Live" tvg-genre="1_Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/fancode.png" tvg-chno="" group-title="1_Football",FanCode Live
+http://100.100.100.2/flussonic/14srv.php?stream=cricket_fancode&format=m3u8
+#EXTINF:-1 tvg-id="stream_139" tvg-name="tsn" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/football/tsn.png" tvg-chno="" group-title="Football",tsn
+http://100.100.100.2/flussonic/14srv.php?stream=cricket_live1&format=m3u8
+#EXTINF:-1 tvg-id="stream_140" tvg-name="Premier Sports 1" tvg-genre="1_Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/football/Premier Sports.png" tvg-chno="" group-title="1_Football",Premier Sports 1
+http://100.100.100.2/flussonic/14srv.php?stream=cricket_live3&format=m3u8
+#EXTINF:-1 tvg-id="stream_141" tvg-name="TNT Sports 2" tvg-genre="1_Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tntsports2.png" tvg-chno="" group-title="1_Football",TNT Sports 2
+http://100.100.100.2/flussonic/14srv.php?stream=cricket_live3&format=m3u8
+#EXTINF:-1 tvg-id="stream_142" tvg-name="bein_sports_1" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/footballl_beinsports1.png" tvg-chno="" group-title="Football",bein_sports_1
+http://100.100.100.2/flussonic/14srv.php?stream=footballl_beinsports1&format=m3u8
+#EXTINF:-1 tvg-id="stream_143" tvg-name="bein_sports_3" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/footballl_beinsports2.png" tvg-chno="" group-title="Football",bein_sports_3
+http://100.100.100.2/flussonic/14srv.php?stream=footballl_beinsports3&format=m3u8
+#EXTINF:-1 tvg-id="stream_144" tvg-name="LALIGA+ Live SportS" tvg-genre="1_Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/football/footballl_laligatv.png" tvg-chno="" group-title="1_Football",LALIGA+ Live SportS
+http://100.100.100.2/flussonic/14srv.php?stream=footballl_laligatv&format=m3u8
+#EXTINF:-1 tvg-id="stream_145" tvg-name="Willow TV" tvg-genre="1_Cricket" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/football/willowcric.png" tvg-chno="" group-title="1_Cricket",Willow TV
+http://100.100.100.2/flussonic/14srv.php?stream=footballl_willowtv&format=m3u8
+#EXTINF:-1 tvg-id="stream_146" tvg-name="Tapmad Live" tvg-genre="1_Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tapmad.png" tvg-chno="" group-title="1_Football",Tapmad Live
+http://100.100.100.2/flussonic/14srv.php?stream=tapmad_live&format=m3u8
+#EXTINF:-1 tvg-id="stream_147" tvg-name="Tsports_Backup" tvg-genre="1_SnTV" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/t_sports1.png" tvg-chno="" group-title="1_SnTV",Tsports_Backup
+http://100.100.100.2/flussonic/14srv.php?stream=tsports_backup&format=m3u8
+#EXTINF:-1 tvg-id="stream_148" tvg-name="Aljazeera Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/aljazeera_hd.png" tvg-chno="" group-title="English",Aljazeera Hd
+http://100.100.100.2/flussonic/15srv.php?stream=aljazeera_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_149" tvg-name="And Flix Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/and_flix_hd.png" tvg-chno="" group-title="English",And Flix Hd
+http://100.100.100.2/flussonic/15srv.php?stream=and_flix_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_150" tvg-name="And Prive Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/and_prive_hd.png" tvg-chno="" group-title="English",And Prive Hd
+http://100.100.100.2/flussonic/15srv.php?stream=and_prive_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_151" tvg-name="Axn Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/axn_hd.png" tvg-chno="" group-title="English",Axn Hd
+http://100.100.100.2/flussonic/15srv.php?stream=axn_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_152" tvg-name="Cnn" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cnn.png" tvg-chno="" group-title="English",Cnn
+http://100.100.100.2/flussonic/15srv.php?stream=cnn&format=m3u8
+#EXTINF:-1 tvg-id="stream_153" tvg-name="Bbc News" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bbc_news.png" tvg-chno="" group-title="English",Bbc News
+http://100.100.100.2/flussonic/15srv.php?stream=bbc_news&format=m3u8
+#EXTINF:-1 tvg-id="stream_154" tvg-name="Hitz Music" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/hitz_music.png" tvg-chno="" group-title="English",Hitz Music
+http://100.100.100.2/flussonic/15srv.php?stream=hitz_music&format=m3u8
+#EXTINF:-1 tvg-id="stream_155" tvg-name="Lotus Tv" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/lotus_tv.png" tvg-chno="" group-title="English",Lotus Tv
+http://100.100.100.2/flussonic/15srv.php?stream=lotus_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_156" tvg-name="Love Nature" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/love_nature.png" tvg-chno="" group-title="English",Love Nature
+http://100.100.100.2/flussonic/15srv.php?stream=love_nature&format=m3u8
+#EXTINF:-1 tvg-id="stream_157" tvg-name="Mn Plus" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/mn_plus.png" tvg-chno="" group-title="English",Mn Plus
+http://100.100.100.2/flussonic/15srv.php?stream=mn_plus&format=m3u8
+#EXTINF:-1 tvg-id="stream_158" tvg-name="Mnx Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/mnx_hd.png" tvg-chno="" group-title="English",Mnx Hd
+http://100.100.100.2/flussonic/15srv.php?stream=mnx_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_159" tvg-name="Movies Now Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/movies_now_hd.png" tvg-chno="" group-title="English",Movies Now Hd
+http://100.100.100.2/flussonic/15srv.php?stream=movies_now_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_160" tvg-name="Romedy Now" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/romedy_now.png" tvg-chno="" group-title="English",Romedy Now
+http://100.100.100.2/flussonic/15srv.php?stream=romedy_now&format=m3u8
+#EXTINF:-1 tvg-id="stream_161" tvg-name="Sony Pix Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_pix_hd.png" tvg-chno="" group-title="English",Sony Pix Hd
+http://100.100.100.2/flussonic/15srv.php?stream=sony_pix_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_162" tvg-name="Star Movies Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_movies_hd.png" tvg-chno="" group-title="English",Star Movies Hd
+http://100.100.100.2/flussonic/15srv.php?stream=star_movies_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_163" tvg-name="Star Movies Select Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/star_movies_select_hd.png" tvg-chno="" group-title="English",Star Movies Select Hd
+http://100.100.100.2/flussonic/15srv.php?stream=star_movies_select_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_164" tvg-name="Zee Cafe Hd" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/zee_cafe_hd.png" tvg-chno="" group-title="English",Zee Cafe Hd
+http://100.100.100.2/flussonic/15srv.php?stream=zee_cafe_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_165" tvg-name="Animal Planet Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/animal_planet_hd.png" tvg-chno="" group-title="Documentary",Animal Planet Hd
+http://100.100.100.2/flussonic/16srv.php?stream=animal_planet_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_166" tvg-name="Bbc Earth Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/bbc_earth_hd.png" tvg-chno="" group-title="Documentary",Bbc Earth Hd
+http://100.100.100.2/flussonic/16srv.php?stream=bbc_earth_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_167" tvg-name="Discovery Bangla" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/discovery_bangla.png" tvg-chno="" group-title="Documentary",Discovery Bangla
+http://100.100.100.2/flussonic/16srv.php?stream=discovery_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_168" tvg-name="Discovery Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/discovery_hd.png" tvg-chno="" group-title="Documentary",Discovery Hd
+http://100.100.100.2/flussonic/16srv.php?stream=discovery_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_169" tvg-name="Discovery Science" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/discovery_science.png" tvg-chno="" group-title="Documentary",Discovery Science
+http://100.100.100.2/flussonic/16srv.php?stream=discovery_science&format=m3u8
+#EXTINF:-1 tvg-id="stream_170" tvg-name="Discovery Turbo" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/discovery_turbo.png" tvg-chno="" group-title="Documentary",Discovery Turbo
+http://100.100.100.2/flussonic/16srv.php?stream=discovery_turbo&format=m3u8
+#EXTINF:-1 tvg-id="stream_171" tvg-name="History Tv Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/history_tv_hd.png" tvg-chno="" group-title="Documentary",History Tv Hd
+http://100.100.100.2/flussonic/16srv.php?stream=history_tv_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_172" tvg-name="Investigation Discovery" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/investigation_discovery.png" tvg-chno="" group-title="Documentary",Investigation Discovery
+http://100.100.100.2/flussonic/16srv.php?stream=investigation_discovery&format=m3u8
+#EXTINF:-1 tvg-id="stream_173" tvg-name="Natgeo Wild Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/natgeo_wild_hd.png" tvg-chno="" group-title="Documentary",Natgeo Wild Hd
+http://100.100.100.2/flussonic/16srv.php?stream=natgeo_wild_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_174" tvg-name="Ngo Gerophy Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/ngo_gerophy_hd.png" tvg-chno="" group-title="Documentary",Ngo Gerophy Hd
+http://100.100.100.2/flussonic/16srv.php?stream=ngo_gerophy_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_175" tvg-name="Sony Bbc Earth Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sony_bbc_earth_hd.png" tvg-chno="" group-title="Documentary",Sony Bbc Earth Hd
+http://100.100.100.2/flussonic/16srv.php?stream=sony_bbc_earth_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_176" tvg-name="Redbol Tv" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/redbol_tv.png" tvg-chno="" group-title="Documentary",Redbol Tv
+http://100.100.100.2/flussonic/16srv.php?stream=redbol_tv&format=m3u8
+#EXTINF:-1 tvg-id="stream_177" tvg-name="Tlc Hd" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/tlc_hd.png" tvg-chno="" group-title="Documentary",Tlc Hd
+http://100.100.100.2/flussonic/16srv.php?stream=tlc_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_178" tvg-name="Travel Xp" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/travel_xp.png" tvg-chno="" group-title="Documentary",Travel Xp
+http://100.100.100.2/flussonic/16srv.php?stream=travel_xp&format=m3u8
+#EXTINF:-1 tvg-id="stream_179" tvg-name="Wild Earth" tvg-genre="Documentary" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/wild_earth.png" tvg-chno="" group-title="Documentary",Wild Earth
+http://100.100.100.2/flussonic/16srv.php?stream=wild_earth&format=m3u8
+#EXTINF:-1 tvg-id="stream_180" tvg-name="9x Jalwa" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/9x_jalwa.png" tvg-chno="" group-title="Music",9x Jalwa
+http://100.100.100.2/flussonic/17srv.php?stream=9x_jalwa&format=m3u8
+#EXTINF:-1 tvg-id="stream_181" tvg-name="B4u Music" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/b4u_music.png" tvg-chno="" group-title="Music",B4u Music
+http://100.100.100.2/flussonic/17srv.php?stream=b4u_music&format=m3u8
+#EXTINF:-1 tvg-id="stream_182" tvg-name="Sangeet Bangla" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sangeet_bangla.png" tvg-chno="" group-title="Music",Sangeet Bangla
+http://100.100.100.2/flussonic/17srv.php?stream=sangeet_bangla&format=m3u8
+#EXTINF:-1 tvg-id="stream_183" tvg-name="Yrf Music Hd" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/yrf_music_hd.png" tvg-chno="" group-title="Music",Yrf Music Hd
+http://100.100.100.2/flussonic/17srv.php?stream=yrf_music_hd&format=m3u8
+#EXTINF:-1 tvg-id="stream_184" tvg-name="1 Live" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/default.png" tvg-chno="" group-title="Sports",1 Live
+http://100.100.100.2/flussonic/18srv.php?stream=1live&format=m3u8
+#EXTINF:-1 tvg-id="stream_185" tvg-name="2 Live" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/default.png" tvg-chno="" group-title="Sports",2 Live
+http://100.100.100.2/flussonic/18srv.php?stream=2live&format=m3u8
+#EXTINF:-1 tvg-id="stream_186" tvg-name="Live Cricket" tvg-genre="Cricket" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/cricket.png" tvg-chno="" group-title="Cricket",Live Cricket
+http://100.100.100.2/flussonic/18srv.php?stream=live_cricket&format=m3u8
+#EXTINF:-1 tvg-id="stream_187" tvg-name="Live Cricket 1" tvg-genre="Cricket" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/cricket/cricket.png" tvg-chno="" group-title="Cricket",Live Cricket 1
+http://100.100.100.2/flussonic/18srv.php?stream=live_cricket_1&format=m3u8
+#EXTINF:-1 tvg-id="stream_188" tvg-name="Live Football" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/football.png" tvg-chno="" group-title="Football",Live Football
+http://100.100.100.2/flussonic/18srv.php?stream=live_football&format=m3u8
+#EXTINF:-1 tvg-id="stream_189" tvg-name="Live Football 1" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/football.png" tvg-chno="" group-title="Football",Live Football 1
+http://100.100.100.2/flussonic/18srv.php?stream=live_football_1&format=m3u8
+#EXTINF:-1 tvg-id="stream_190" tvg-name="Live Football 2" tvg-genre="Football" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/football.png" tvg-chno="" group-title="Football",Live Football 2
+http://100.100.100.2/flussonic/18srv.php?stream=live_football_2&format=m3u8
+#EXTINF:-1 tvg-id="stream_194" tvg-name="T Sports" tvg-genre="Sports" tvg-language="Bengali/English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/tsports.png" tvg-chno="" group-title="Sports",T Sports
+http://100.100.100.2/flussonic/18srv.php?stream=t_sports&format=m3u8
+#EXTINF:-1 tvg-id="stream_222" tvg-name="Star Sports Select 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/starsports.png" tvg-chno="" group-title="Sports",Star Sports Select 1
+http://100.100.100.2/flussonic/18srv.php?stream=star_sports_select_1&format=m3u8
+#EXTINF:-1 tvg-id="stream_223" tvg-name="Star Sports Select 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://100.100.100.2/img/sports/starsports.png" tvg-chno="" group-title="Sports",Star Sports Select 2
+http://100.100.100.2/flussonic/18srv.php?stream=star_sports_select_2&format=m3u8
