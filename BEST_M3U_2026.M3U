@@ -214,7 +214,7 @@ https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 #EXTINF:-1,EURO_SPORTS
 https://server.itcnbd.live/stream/euro_sports_hd.m3u8
 #EXTINF:-1,WILLOW_SPORTS
-http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_1
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_SPORTS_SELECT_2
