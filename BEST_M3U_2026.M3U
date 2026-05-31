@@ -112,7 +112,7 @@ https://server.itcnbd.live/stream/zing_sd.m3u8
 #EXTINF:-1,সংগীত_বাংলা
 http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_MUSIC
-http://172.16.29.2:8090/hls/9xm.m3u8
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1,9X_JALWA
 https://wiselp.wiseplayout.com/9X_Jalwa/SD216/SD216.m3u8
 #EXTINF:-1,9X_JHAKAAS
