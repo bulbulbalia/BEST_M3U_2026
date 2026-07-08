@@ -130,7 +130,7 @@ https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1,BIZ_TV
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZOOM_MUSIC
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1,POWER_TURK_MUSIC
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8?nimblesessionid=529532590
 #EXTINF:-1,JOO_MUSIC
