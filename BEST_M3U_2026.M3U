@@ -101,6 +101,8 @@ https://server.itcnbd.live/stream/zee_bangla_cinema.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1,SHANANDA_TV
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUN_BANGLA
+https://s2.itcnbd.live/server-3/stream/resource/aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1VOLkJBTkdMQS5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MGM1ZDc0ZTczNWM1NjY1MDA4ODg1MTZjOTViM2E2ZDIyNTE0NTVlMS05ZjkzMTBiYjhlZjY2NjEwNTgzYjk0OWFhNTIwMGQ3MC0xNzg0MTY1MzI0LTE3ODQxNTQ1MjQ
 #EXTINF:-1,SONY_AAT_HD
 https://server.itcnbd.live/stream/sonyaath.m3u8
 #EXTINF:-1,আকাশ_৮
