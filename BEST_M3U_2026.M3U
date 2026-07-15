@@ -194,7 +194,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1,TRT_WORLD
 https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1,T_SPORTS
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 #EXTINF:-1,PTV_SPORTS
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1,TEN_CRICKET
