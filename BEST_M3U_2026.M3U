@@ -148,7 +148,7 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,PARTY_UNIVERS
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 #EXTINF:-1,SONY_TV_HD
-https://server.itcnbd.live/stream/sonyentertainmnt_hd.m3u8
+https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvNDAzL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj0zMWQzOGM0OTMyOGI0NWVmODA0ZTE5NDNhYmM1NDc1OTliZmRiZmJjLTE3MzUxZDdkNTI4ZDcwMmQxMGEwODA4ZjE2NWI5YjZkLTE3ODU0NTgyOTEtMTc4NTQ1NDY5MQ
 #EXTINF:-1,SONY_SAB
 https://server.itcnbd.live/stream/sonysab_hd.m3u8
 #EXTINF:-1,STAR_PLUS
