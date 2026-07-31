@@ -12,7 +12,7 @@ https://tvsen5.aynaott.com/RtvHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,RAJDHANI
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1,HUM_TV
-https://server.itcnbd.live/stream/hum_tv.m3u8
+https://stream.ottplus.live/live/hum_tv_abr/live/hum_tv_720/chunks.m3u8?nimblesessionid=72675593
 #EXTINF:-1,ARY_DIGITAL
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1,GEO_ENTERTRAINMENT_PK
